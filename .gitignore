@@ -1,0 +1,5 @@
+.vs/
+out/
+fingernet_example_app/bin/
+fingernet_example_app/obj/
+External/
