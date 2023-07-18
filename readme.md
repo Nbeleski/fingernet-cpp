@@ -10,6 +10,6 @@ This repository contains a C++ implementation of the FingerNet minutiae detectio
 
 [Link for original repository](https://github.com/592692070/FingerNet)
 
-Please note that I have not included links to any external dependencies, such as Openvino and OpenCV, or build instructions as this implementation primarily serve as a personal reference for myself.
+Please note that I have not included the folder including any external dependencies, such as Openvino and OpenCV. I have also not included build instructions as this implementation primarily serve as a personal reference for myself.
 
 
