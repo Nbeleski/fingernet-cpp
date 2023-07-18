@@ -1,5 +1,5 @@
 //
-// FaceDetectionModel.cpp
+// FingerNetModel.cpp
 //
 
 #include <opencv2/opencv.hpp>

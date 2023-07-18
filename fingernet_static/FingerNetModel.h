@@ -1,5 +1,5 @@
 //
-// FaceDetectionModel.h
+// FingerNetModel.h
 //
 #pragma once
 

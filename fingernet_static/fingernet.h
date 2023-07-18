@@ -1,5 +1,5 @@
 //
-// foo_passport_check.h
+// fingernet.h
 //
 #pragma once
 
