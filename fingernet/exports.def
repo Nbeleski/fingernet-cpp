@@ -1,0 +1,8 @@
+;
+; exports.def
+;
+LIBRARY fingernet
+
+EXPORTS
+	extract_fingerprint_features
+	draw_minutiae
