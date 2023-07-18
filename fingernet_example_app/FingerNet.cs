@@ -9,7 +9,7 @@ using System.Runtime.Versioning;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace antheus
+namespace foo
 {
     internal class FingerNet
     {

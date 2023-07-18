@@ -51,7 +51,7 @@ constexpr float PI = 3.141592653589;
 //
 // By chatgpt
 
-namespace antheus
+namespace foo
 {
     // --------------------------------------------------------------------------------------------
     // Support functions

@@ -1,14 +1,14 @@
 //
-// antheus_passport_check.h
+// foo_passport_check.h
 //
 #pragma once
 
 #include <vector>
 #include <string>
 
-#define ANTHEUS_API __declspec(dllexport)
+#define foo_API __declspec(dllexport)
 
-namespace antheus
+namespace foo
 {
     enum class ReturnCode
     {
@@ -26,10 +26,10 @@ namespace antheus
     /**
     * 
     */
-    extern "C" ANTHEUS_API ReturnCode extract_fingerprint_features(unsigned char* raw, int w, int h, unsigned char* mask, unsigned char* enhanced, int* minutiae, int* num_minutiae);
+    extern "C" foo_API ReturnCode extract_fingerprint_features(unsigned char* raw, int w, int h, unsigned char* mask, unsigned char* enhanced, int* minutiae, int* num_minutiae);
 
 
-    extern "C" ANTHEUS_API ReturnCode draw_minutiae(unsigned char* raw, int w, int h, const char* filename);
+    extern "C" foo_API ReturnCode draw_minutiae(unsigned char* raw, int w, int h, const char* filename);
 
 }
 

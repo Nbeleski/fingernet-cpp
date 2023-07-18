@@ -42,7 +42,7 @@ namespace FingernetExample
 
             // Call a function on the opened file
             var image = new Bitmap(filePath);
-            antheus.FingerNet.extractFingerprintFeatures(GetFileName(filePath), image);
+            foo.FingerNet.extractFingerprintFeatures(GetFileName(filePath), image);
         }
     }
 }

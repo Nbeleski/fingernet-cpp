@@ -8,7 +8,7 @@
 
 #include <array>
 
-namespace antheus
+namespace foo
 {
 	class FingerNetModel
 	{

@@ -9,7 +9,7 @@
 
 constexpr int model_input_size = 448;
 
-namespace antheus
+namespace foo
 {
 
 	//
